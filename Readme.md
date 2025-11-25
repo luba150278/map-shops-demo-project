@@ -40,8 +40,8 @@ npm run test
 ```
 This will execute unit tests using Jest.
 
-### Demo
+### Map Demo 
 ![Show svg map](./screenshots/map.png)
 
-### Login Page
+### Shop List Demo
 ![Shops list](./screenshots/map-shops.png)
